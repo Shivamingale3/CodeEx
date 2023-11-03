@@ -1,7 +1,10 @@
-# CodeEx
+===============================
+##CodeEx-Learn to Code with Explaination
+===============================
 
-A new Flutter project.
+Flutter project made using FlutterFlow UI/UX Tool.
+Tool Link: https://app.flutterflow.io/
 
+===============================
 ## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+===============================
