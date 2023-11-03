@@ -35,8 +35,8 @@ The app uses JDoodle cloud based IDE website for letting you practice the learne
 ## Documentation
  - [Click Here to View PDF](https://drive.google.com/file/d/1ygB5TuqpukYVRSDPB8q2xrX3Z8D_4TJy/preview)
 ## Screenshots
-* Home Screen
-  https://github.com/Shivamingale3/CodeEx/blob/Version-2.0/assets/images/home.png
+* [Home Screen]
+  (https://github.com/Shivamingale3/CodeEx/blob/Version-2.0/assets/images/home.png)
 
 * Learning Module
 https://github.com/Shivamingale3/CodeEx/blob/Version-2.0/assets/images/learning_module.png
